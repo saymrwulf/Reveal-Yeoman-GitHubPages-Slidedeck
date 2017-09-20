@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "How to make a Slidedeck with Reveal,Yeoman and GithubPages",
+    "packageVersion": "0.0.0",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "saymrwulf",
+    "githubRepository": "Reveal-Yeoman-GitHubPages-Slidedeck.git "
+  }
+}
