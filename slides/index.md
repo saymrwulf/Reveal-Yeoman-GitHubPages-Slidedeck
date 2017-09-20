@@ -1,2 +1,2 @@
 
-# How to make a Slidedeck with Reveal,Yeoman and GithubPages
+# How --- to make a Slidedeck with Reveal,Yeoman and GithubPages
